@@ -1,5 +1,4 @@
-1- Network Troubleshooting Lab 
-link : https://github.com/WebWolf77/it-support-home-lab/tree/main/01-network-troubleshooting
+
 # 🖥️ IT Support Home Lab
 
 ## 🎯 Overview
@@ -21,6 +20,7 @@ The purpose of this project is to simulate real-world IT support scenarios and d
 ## 📂 Projects Included
 
 ### 🔌 01 - Network Troubleshooting
+        Link : https://github.com/Aamir-143/01-network-troubleshooting
 - Diagnosed "no internet connection" issue  
 - Performed connectivity tests using `ping`  
 - Identified and fixed disabled network adapter  
@@ -28,12 +28,14 @@ The purpose of this project is to simulate real-world IT support scenarios and d
 ---
 
 ### 📁 02 - Shared Folders
+        Link : https://github.com/Aamir-143/02-shared-folders
 - Configured shared folders between virtual machines  
 - Managed permissions and user access  
 
 ---
 
 ### 🔑 03 - Password Reset
+        Link : https://github.com/Aamir-143/-03-password-reset
 - Reset user account passwords using Command Prompt  
 - Resolved permission issues (Access Denied → Admin CMD)  
 - Practiced real-world account recovery scenarios  
@@ -41,12 +43,14 @@ The purpose of this project is to simulate real-world IT support scenarios and d
 ---
 
 ### 🖥️ 04 - Remote Support
+        Link : https://github.com/Aamir-143/04-remote-support
 - Simulated remote desktop troubleshooting  
 - Assisted users in a remote environment  
 
 ---
 
 ### 🏢 05 - Active Directory Lab
+        Link : https://github.com/Aamir-143/05-active-directory-lab
 - Installed and configured Domain Controller  
 - Created and managed users & groups  
 - Applied Group Policy Objects (GPOs)  
@@ -54,6 +58,7 @@ The purpose of this project is to simulate real-world IT support scenarios and d
 ---
 
 ### 🎫 06 - Ticket System Simulation
+        Link : https://github.com/Aamir-143/06-ticket-system-simulation
 - Simulated real-world IT support tickets  
 - Documented issue → diagnosis → resolution → result  
 - Included screenshots for each scenario  
