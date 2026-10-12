@@ -76,8 +76,7 @@ All labs were built and tested in a virtual environment using Oracle VirtualBox.
 - Realistic troubleshooting scenarios  
 
 ## 🗺️ Lab Architecture
-<img width="1919" height="1021" alt="image" src="F:\IT Projects" />
-
+<img width="1920" height="1080" alt="Screenshot (189)" src="https://github.com/user-attachments/assets/d4ab8716-7394-4bef-84ef-de6984e66ab8" />
 
 ---
 
